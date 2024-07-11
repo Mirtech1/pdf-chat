@@ -104,8 +104,8 @@ def main():
                 st.success("Done")
 
     # Main content area for displaying chat messages
-    st.title("Chat with PDF files using Gemini🤖")
-    st.write("Welcome to the chat!")
+    st.title("Chat with Your PDF files Chidinma's AI🤖")
+    st.write("Welcome to chidinma's ai pdf chat!")
     st.sidebar.button('Clear Chat History', on_click=clear_chat_history)
 
     # Chat input
